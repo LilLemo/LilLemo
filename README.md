@@ -15,6 +15,7 @@ Meu foco é criar ferramentas que resolvam problemas reais, desde análises soci
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Gen AI](https://img.shields.io/badge/Google%20Gen%20AI-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ### 📈 Estatísticas do GitHub
 📫 **Como me encontrar:** www.linkedin.com/in/leonardo-moura-rebouças-1583191b0 | lhomoura@gmail.com
